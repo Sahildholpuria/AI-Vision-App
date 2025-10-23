@@ -1,0 +1,5 @@
+{
+  "name": "AI Vision",
+  "description": "An AI-powered application to edit images with text prompts, analyze image content, and generate witty memes using Google's Gemini models.",
+  "requestFramePermissions": []
+}
